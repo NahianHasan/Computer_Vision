@@ -1,0 +1,743 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.5.11)  28 SEP 2022 23:06
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+(/usr/share/texlive/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks14
+\SOUL@lasttoken=\toks15
+\SOUL@cmds=\toks16
+\SOUL@buffer=\toks17
+\SOUL@token=\toks18
+\SOUL@spaceskip=\skip49
+\SOUL@ttwidth=\dimen135
+\SOUL@uldp=\dimen136
+\SOUL@ulht=\dimen137
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen138
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen139
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count175
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count176
+\leftroot@=\count177
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count178
+\DOTSCASE@=\count179
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen140
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count180
+\c@MaxMatrixCols=\count181
+\dotsspace@=\muskip16
+\c@parentequation=\count182
+\dspbrk@lvl=\count183
+\tag@help=\toks20
+\row@=\count184
+\column@=\count185
+\maxfields@=\count186
+\andhelp@=\toks21
+\eqnshift@=\dimen141
+\alignsep@=\dimen142
+\tagshift@=\dimen143
+\tagwidth@=\dimen144
+\totwidth@=\dimen145
+\lineht@=\dimen146
+\@envbody=\toks22
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eqnarray/eqnarray.sty
+equationarray 1.3 <December 1, 2010>
+Package: eqnarray 
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen147
+\ar@mcellbox=\box47
+\extrarowheight=\dimen148
+\NC@list=\toks24
+\extratabsurround=\skip53
+\backup@length=\skip54
+\ar@cellbox=\box48
+)
+\@eqargcnt=\count187
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 209.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip55
+\multirow@cntb=\count188
+\multirow@dima=\skip56
+\bigstrutjot=\dimen149
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen152
+\lightrulewidth=\dimen153
+\cmidrulewidth=\dimen154
+\belowrulesep=\dimen155
+\belowbottomsep=\dimen156
+\aboverulesep=\dimen157
+\abovetopsep=\dimen158
+\cmidrulesep=\dimen159
+\cmidrulekern=\dimen160
+\defaultaddspace=\dimen161
+\@cmidla=\count189
+\@cmidlb=\count190
+\@aboverulesep=\dimen162
+\@belowrulesep=\dimen163
+\@thisruleclass=\count191
+\@lastruleclass=\count192
+\@thisrulewidth=\dimen164
+)
+(/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen165
+\captionmargin@=\dimen166
+\captionwidth=\dimen167
+\caption@tempdima=\dimen168
+\caption@indent=\dimen169
+\caption@parindent=\dimen170
+\caption@hangindent=\dimen171
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count193
+\c@continuedfloat=\count194
+)
+\c@subfigure=\count195
+\c@subtable=\count196
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count197
+\lst@gtempboxa=\box49
+\lst@token=\toks26
+\lst@length=\count198
+\lst@currlwidth=\dimen172
+\lst@column=\count199
+\lst@pos=\count266
+\lst@lostspace=\dimen173
+\lst@width=\dimen174
+\lst@newlines=\count267
+\lst@lineno=\count268
+\lst@maxwidth=\dimen175
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count269
+\lst@skipnumbers=\count270
+\lst@framebox=\box50
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count271
+\Gm@cntv=\count272
+\c@Gm@tempcnt=\count273
+\Gm@bindingoffset=\dimen176
+\Gm@wd@mp=\dimen177
+\Gm@odd@mp=\dimen178
+\Gm@even@mp=\dimen179
+\Gm@layoutwidth=\dimen180
+\Gm@layoutheight=\dimen181
+\Gm@layouthoffset=\dimen182
+\Gm@layoutvoffset=\dimen183
+\Gm@dimlist=\toks27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count274
+\l__pdf_internal_box=\box51
+)
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count275
+\scratchdimen=\dimen184
+\scratchbox=\box52
+\nofMPsegments=\count276
+\nofMParguments=\count277
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count278
+\MPscratchDim=\dimen185
+\MPnumerator=\count279
+\makeMPintoPDFobject=\count280
+\everyMPtoPDFconversion=\toks29
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count281
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(36.135pt, 542.02501pt, 36.135pt)
+* v-part:(T,H,B)=(36.135pt, 722.7pt, 36.135pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=542.02501pt
+* \textheight=722.7pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-73.135pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+<../Interest_Points_books_1_1.2.jpg, id=20, 1284.8pt x 963.6pt>
+File: ../Interest_Points_books_1_1.2.jpg Graphic file (type jpg)
+<use ../Interest_Points_books_1_1.2.jpg>
+Package pdftex.def Info: ../Interest_Points_books_1_1.2.jpg  used on input line
+ 88.
+(pdftex.def)             Requested size: 243.90959pt x 182.92416pt.
+<../Interest_Points_books_2_1.2.jpg, id=21, 1284.8pt x 963.6pt>
+File: ../Interest_Points_books_2_1.2.jpg Graphic file (type jpg)
+<use ../Interest_Points_books_2_1.2.jpg>
+Package pdftex.def Info: ../Interest_Points_books_2_1.2.jpg  used on input line
+ 89.
+(pdftex.def)             Requested size: 243.90959pt x 182.92416pt.
+<../Interest_Points_fountain_1_1.2.jpg, id=22, 669.50125pt x 501.875pt>
+File: ../Interest_Points_fountain_1_1.2.jpg Graphic file (type jpg)
+<use ../Interest_Points_fountain_1_1.2.jpg>
+Package pdftex.def Info: ../Interest_Points_fountain_1_1.2.jpg  used on input l
+ine 96.
+(pdftex.def)             Requested size: 243.90959pt x 182.84206pt.
+<../Interest_Points_fountain_2_1.2.jpg, id=23, 669.50125pt x 501.875pt>
+File: ../Interest_Points_fountain_2_1.2.jpg Graphic file (type jpg)
+<use ../Interest_Points_fountain_2_1.2.jpg>
+Package pdftex.def Info: ../Interest_Points_fountain_2_1.2.jpg  used on input l
+ine 97.
+(pdftex.def)             Requested size: 243.90959pt x 182.84206pt.
+ [3 <../Interest_Points_books_1_1.2.jpg> <../Interest_Points_books_2_1.2.jpg> <
+../Interest_Points_fountain_1_1.2.jpg> <../Interest_Points_fountain_2_1.2.jpg>]
+<../Image_Correspondences_SSD_books_1.2.jpg, id=27, 2569.6pt x 963.6pt>
+File: ../Image_Correspondences_SSD_books_1.2.jpg Graphic file (type jpg)
+<use ../Image_Correspondences_SSD_books_1.2.jpg>
+Package pdftex.def Info: ../Image_Correspondences_SSD_books_1.2.jpg  used on in
+put line 104.
+(pdftex.def)             Requested size: 487.8192pt x 182.92416pt.
+<../Image_Correspondences_SSD_fountain_1.2.jpg, id=28, 1339.0025pt x 501.875pt>
+
+File: ../Image_Correspondences_SSD_fountain_1.2.jpg Graphic file (type jpg)
+<use ../Image_Correspondences_SSD_fountain_1.2.jpg>
+Package pdftex.def Info: ../Image_Correspondences_SSD_fountain_1.2.jpg  used on
+ input line 110.
+(pdftex.def)             Requested size: 487.8192pt x 182.84206pt.
+ [4 <../Image_Correspondences_SSD_books_1.2.jpg> <../Image_Correspondences_SSD_
+fountain_1.2.jpg>]
+<../Image_Correspondences_SSD_books_0.8.jpg, id=32, 2569.6pt x 963.6pt>
+File: ../Image_Correspondences_SSD_books_0.8.jpg Graphic file (type jpg)
+<use ../Image_Correspondences_SSD_books_0.8.jpg>
+Package pdftex.def Info: ../Image_Correspondences_SSD_books_0.8.jpg  used on in
+put line 118.
+(pdftex.def)             Requested size: 325.2183pt x 121.94943pt.
+File: ../Image_Correspondences_SSD_books_1.2.jpg Graphic file (type jpg)
+<use ../Image_Correspondences_SSD_books_1.2.jpg>
+Package pdftex.def Info: ../Image_Correspondences_SSD_books_1.2.jpg  used on in
+put line 119.
+(pdftex.def)             Requested size: 325.2183pt x 121.94943pt.
+<../Image_Correspondences_SSD_books_1.6.jpg, id=33, 2569.6pt x 963.6pt>
+File: ../Image_Correspondences_SSD_books_1.6.jpg Graphic file (type jpg)
+<use ../Image_Correspondences_SSD_books_1.6.jpg>
+Package pdftex.def Info: ../Image_Correspondences_SSD_books_1.6.jpg  used on in
+put line 120.
+(pdftex.def)             Requested size: 325.2183pt x 121.94943pt.
+<../Image_Correspondences_SSD_books_2.0.jpg, id=34, 2569.6pt x 963.6pt>
+File: ../Image_Correspondences_SSD_books_2.0.jpg Graphic file (type jpg)
+<use ../Image_Correspondences_SSD_books_2.0.jpg>
+Package pdftex.def Info: ../Image_Correspondences_SSD_books_2.0.jpg  used on in
+put line 121.
+(pdftex.def)             Requested size: 325.2183pt x 121.94943pt.
+ [5 <../Image_Correspondences_SSD_books_0.8.jpg> <../Image_Correspondences_SSD_
+books_1.6.jpg> <../Image_Correspondences_SSD_books_2.0.jpg>]
+<../Image_Correspondences_SSD_fountain_0.8.jpg, id=38, 1339.0025pt x 501.875pt>
+
+File: ../Image_Correspondences_SSD_fountain_0.8.jpg Graphic file (type jpg)
+<use ../Image_Correspondences_SSD_fountain_0.8.jpg>
+Package pdftex.def Info: ../Image_Correspondences_SSD_fountain_0.8.jpg  used on
+ input line 129.
+(pdftex.def)             Requested size: 325.2183pt x 121.89215pt.
+File: ../Image_Correspondences_SSD_fountain_1.2.jpg Graphic file (type jpg)
+<use ../Image_Correspondences_SSD_fountain_1.2.jpg>
+Package pdftex.def Info: ../Image_Correspondences_SSD_fountain_1.2.jpg  used on
+ input line 130.
+(pdftex.def)             Requested size: 325.2183pt x 121.89215pt.
+<../Image_Correspondences_SSD_fountain_1.6.jpg, id=39, 1339.0025pt x 501.875pt>
+
+File: ../Image_Correspondences_SSD_fountain_1.6.jpg Graphic file (type jpg)
+<use ../Image_Correspondences_SSD_fountain_1.6.jpg>
+Package pdftex.def Info: ../Image_Correspondences_SSD_fountain_1.6.jpg  used on
+ input line 131.
+(pdftex.def)             Requested size: 325.2183pt x 121.89215pt.
+<../Image_Correspondences_SSD_fountain_2.0.jpg, id=40, 1339.0025pt x 501.875pt>
+
+File: ../Image_Correspondences_SSD_fountain_2.0.jpg Graphic file (type jpg)
+<use ../Image_Correspondences_SSD_fountain_2.0.jpg>
+Package pdftex.def Info: ../Image_Correspondences_SSD_fountain_2.0.jpg  used on
+ input line 132.
+(pdftex.def)             Requested size: 325.2183pt x 121.89215pt.
+ [6 <../Image_Correspondences_SSD_fountain_0.8.jpg> <../Image_Correspondences_S
+SD_fountain_1.6.jpg> <../Image_Correspondences_SSD_fountain_2.0.jpg>]
+<../opencv_correspondences_books_1.2.jpg, id=44, 2569.6pt x 963.6pt>
+File: ../opencv_correspondences_books_1.2.jpg Graphic file (type jpg)
+<use ../opencv_correspondences_books_1.2.jpg>
+Package pdftex.def Info: ../opencv_correspondences_books_1.2.jpg  used on input
+ line 140.
+(pdftex.def)             Requested size: 487.8192pt x 182.92416pt.
+<../opencv_correspondences_fountain_1.2.jpg, id=45, 1339.0025pt x 501.875pt>
+File: ../opencv_correspondences_fountain_1.2.jpg Graphic file (type jpg)
+<use ../opencv_correspondences_fountain_1.2.jpg>
+Package pdftex.def Info: ../opencv_correspondences_fountain_1.2.jpg  used on in
+put line 141.
+(pdftex.def)             Requested size: 487.8192pt x 182.84206pt.
+ [7 <../opencv_correspondences_books_1.2.jpg> <../opencv_correspondences_founta
+in_1.2.jpg>]
+<../1_and_2_superglue_matches.png, id=50, 358.4592pt x 134.1813pt>
+File: ../1_and_2_superglue_matches.png Graphic file (type png)
+<use ../1_and_2_superglue_matches.png>
+Package pdftex.def Info: ../1_and_2_superglue_matches.png  used on input line 1
+50.
+(pdftex.def)             Requested size: 298.1154pt x 111.5977pt.
+<../1_and_3_superglue_matches.png, id=52, 358.4592pt x 134.1813pt>
+File: ../1_and_3_superglue_matches.png Graphic file (type png)
+<use ../1_and_3_superglue_matches.png>
+Package pdftex.def Info: ../1_and_3_superglue_matches.png  used on input line 1
+51.
+(pdftex.def)             Requested size: 298.1154pt x 111.5977pt.
+<../1_and_4_superglue_matches.png, id=53, 358.4592pt x 134.1813pt>
+File: ../1_and_4_superglue_matches.png Graphic file (type png)
+<use ../1_and_4_superglue_matches.png>
+Package pdftex.def Info: ../1_and_4_superglue_matches.png  used on input line 1
+52.
+(pdftex.def)             Requested size: 298.1154pt x 111.5977pt.
+<../2_and_4_superglue_matches.png, id=54, 358.4592pt x 134.1813pt>
+File: ../2_and_4_superglue_matches.png Graphic file (type png)
+<use ../2_and_4_superglue_matches.png>
+Package pdftex.def Info: ../2_and_4_superglue_matches.png  used on input line 1
+53.
+(pdftex.def)             Requested size: 298.1154pt x 111.5977pt.
+<../3_and_5_superglue_matches.png, id=55, 358.4592pt x 134.1813pt>
+File: ../3_and_5_superglue_matches.png Graphic file (type png)
+<use ../3_and_5_superglue_matches.png>
+Package pdftex.def Info: ../3_and_5_superglue_matches.png  used on input line 1
+54.
+(pdftex.def)             Requested size: 298.1154pt x 111.5977pt.
+<../Image_Correspondences_SSD_custom_pair_1_0.8.jpg, id=56, 3854.4pt x 1084.05p
+t>
+File: ../Image_Correspondences_SSD_custom_pair_1_0.8.jpg Graphic file (type jpg
+)
+<use ../Image_Correspondences_SSD_custom_pair_1_0.8.jpg>
+Package pdftex.def Info: ../Image_Correspondences_SSD_custom_pair_1_0.8.jpg  us
+ed on input line 163.
+(pdftex.def)             Requested size: 325.2183pt x 91.45656pt.
+<../Image_Correspondences_SSD_custom_pair_1_1.2.jpg, id=57, 3854.4pt x 1084.05p
+t>
+File: ../Image_Correspondences_SSD_custom_pair_1_1.2.jpg Graphic file (type jpg
+)
+<use ../Image_Correspondences_SSD_custom_pair_1_1.2.jpg>
+Package pdftex.def Info: ../Image_Correspondences_SSD_custom_pair_1_1.2.jpg  us
+ed on input line 164.
+(pdftex.def)             Requested size: 325.2183pt x 91.45656pt.
+<../Image_Correspondences_SSD_custom_pair_1_1.6.jpg, id=58, 3854.4pt x 1084.05p
+t>
+File: ../Image_Correspondences_SSD_custom_pair_1_1.6.jpg Graphic file (type jpg
+)
+<use ../Image_Correspondences_SSD_custom_pair_1_1.6.jpg>
+Package pdftex.def Info: ../Image_Correspondences_SSD_custom_pair_1_1.6.jpg  us
+ed on input line 165.
+(pdftex.def)             Requested size: 325.2183pt x 91.45656pt.
+<../Image_Correspondences_SSD_custom_pair_1_2.0.jpg, id=59, 3854.4pt x 1084.05p
+t>
+File: ../Image_Correspondences_SSD_custom_pair_1_2.0.jpg Graphic file (type jpg
+)
+<use ../Image_Correspondences_SSD_custom_pair_1_2.0.jpg>
+Package pdftex.def Info: ../Image_Correspondences_SSD_custom_pair_1_2.0.jpg  us
+ed on input line 166.
+(pdftex.def)             Requested size: 325.2183pt x 91.45656pt.
+ [8 <../1_and_2_superglue_matches.png> <../1_and_3_superglue_matches.png> <../1
+_and_4_superglue_matches.png> <../2_and_4_superglue_matches.png> <../3_and_5_su
+perglue_matches.png>]
+<../Image_Correspondences_SSD_custom_pair_2_0.8.jpg, id=68, 513.92pt x 256.96pt
+>
+File: ../Image_Correspondences_SSD_custom_pair_2_0.8.jpg Graphic file (type jpg
+)
+<use ../Image_Correspondences_SSD_custom_pair_2_0.8.jpg>
+Package pdftex.def Info: ../Image_Correspondences_SSD_custom_pair_2_0.8.jpg  us
+ed on input line 173.
+(pdftex.def)             Requested size: 325.2183pt x 162.61101pt.
+<../Image_Correspondences_SSD_custom_pair_2_1.2.jpg, id=69, 513.92pt x 256.96pt
+>
+File: ../Image_Correspondences_SSD_custom_pair_2_1.2.jpg Graphic file (type jpg
+)
+<use ../Image_Correspondences_SSD_custom_pair_2_1.2.jpg>
+Package pdftex.def Info: ../Image_Correspondences_SSD_custom_pair_2_1.2.jpg  us
+ed on input line 174.
+(pdftex.def)             Requested size: 325.2183pt x 162.61101pt.
+<../Image_Correspondences_SSD_custom_pair_2_1.6.jpg, id=70, 513.92pt x 256.96pt
+>
+File: ../Image_Correspondences_SSD_custom_pair_2_1.6.jpg Graphic file (type jpg
+)
+<use ../Image_Correspondences_SSD_custom_pair_2_1.6.jpg>
+Package pdftex.def Info: ../Image_Correspondences_SSD_custom_pair_2_1.6.jpg  us
+ed on input line 175.
+(pdftex.def)             Requested size: 325.2183pt x 162.61101pt.
+<../Image_Correspondences_SSD_custom_pair_2_2.0.jpg, id=71, 513.92pt x 256.96pt
+>
+File: ../Image_Correspondences_SSD_custom_pair_2_2.0.jpg Graphic file (type jpg
+)
+<use ../Image_Correspondences_SSD_custom_pair_2_2.0.jpg>
+Package pdftex.def Info: ../Image_Correspondences_SSD_custom_pair_2_2.0.jpg  us
+ed on input line 176.
+(pdftex.def)             Requested size: 325.2183pt x 162.61101pt.
+
+
+LaTeX Warning: Float too large for page by 25.61076pt on input line 178.
+
+[9 <../Image_Correspondences_SSD_custom_pair_1_0.8.jpg> <../Image_Correspondenc
+es_SSD_custom_pair_1_1.2.jpg> <../Image_Correspondences_SSD_custom_pair_1_1.6.j
+pg> <../Image_Correspondences_SSD_custom_pair_1_2.0.jpg>] [10 <../Image_Corresp
+ondences_SSD_custom_pair_2_0.8.jpg> <../Image_Correspondences_SSD_custom_pair_2
+_1.2.jpg> <../Image_Correspondences_SSD_custom_pair_2_1.6.jpg> <../Image_Corres
+pondences_SSD_custom_pair_2_2.0.jpg>]
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+Overfull \hbox (75.98128pt too wide) in paragraph at lines 212--213
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][] 
+ []
+
+
+Overfull \hbox (75.98128pt too wide) in paragraph at lines 213--214
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (33.98085pt too wide) in paragraph at lines 232--233
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (99.98152pt too wide) in paragraph at lines 236--237
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (117.9817pt too wide) in paragraph at lines 237--238
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (273.98329pt too wide) in paragraph at lines 238--239
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (273.98329pt too wide) in paragraph at lines 239--242
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[11]
+Overfull \hbox (27.98079pt too wide) in paragraph at lines 250--251
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (27.98079pt too wide) in paragraph at lines 251--252
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (75.98128pt too wide) in paragraph at lines 252--254
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (39.98091pt too wide) in paragraph at lines 259--260
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (39.98091pt too wide) in paragraph at lines 260--261
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (93.98146pt too wide) in paragraph at lines 261--263
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (75.98128pt too wide) in paragraph at lines 266--268
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (75.98128pt too wide) in paragraph at lines 271--273
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (15.98067pt too wide) in paragraph at lines 296--297
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (33.98085pt too wide) in paragraph at lines 300--301
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[12]
+Overfull \hbox (87.9814pt too wide) in paragraph at lines 310--311
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 3
+14.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 314.
+
+Overfull \hbox (69.98122pt too wide) in paragraph at lines 351--352
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (9.9806pt too wide) in paragraph at lines 353--354
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (9.9806pt too wide) in paragraph at lines 354--355
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[13]
+Overfull \hbox (87.9814pt too wide) in paragraph at lines 373--374
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (9.9806pt too wide) in paragraph at lines 375--376
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (9.9806pt too wide) in paragraph at lines 376--377
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (15.98067pt too wide) in paragraph at lines 393--394
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (87.9814pt too wide) in paragraph at lines 395--396
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+
+ []
+
+[14] (./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 6208 strings out of 483065
+ 93112 string characters out of 5963550
+ 546415 words of memory out of 5000000
+ 21127 multiletter control sequences out of 15000+600000
+ 546782 words of font info for 76 fonts, out of 8000000 for 9000
+ 81 hyphenation exceptions out of 8191
+ 48i,8n,46p,552b,1731s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/nahian/.texlive2019/texmf-var/fonts/pk/ljfour/jknapp
+en/ec/tcti1000.600pk> </home/nahian/.texlive2019/texmf-var/fonts/pk/ljfour/jkna
+ppen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmti10.pfb>
+Output written on main.pdf (14 pages, 19597723 bytes).
+PDF statistics:
+ 145 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,37 @@
+\relax 
+\@writefile{toc}{\contentsline {section}{\numberline {1}Objective}{1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2}Principal Component Analysis (PCA)}{1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {3}Linear Discriminant Analysis (LDA)}{2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4}Autoencoder}{3}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5}Cascaded Adaboost Classifier}{3}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {6}Results}{5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.1}Covariance Matrices of PCA and LDA}{5}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces (a)Covarinace matrix for PCA (Although here, the covariance matrix is shown as $C=XX^T$, in the implementation of this assignment we utilized a reduced size of the covariance matrix by finding the eigenvectors of $C=X^TX$ and then multiplying those eigenvectors by $X$ to find out the actual eigenvectors.) (b) The eigenvectors corresponding to higest 11 eigenvalues\relax }}{5}\protected@file@percent }
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{fig:CM_PCA}{{1}{5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Between-class scatter matrix (a), within-class scatter matrix (b) and combined scatter matrix of which eigenvectors are calculated in original LDA (c).\relax }}{5}\protected@file@percent }
+\newlabel{fig:CM_LDA}{{2}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.2}Eigen Faces}{6}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Eigen-Faces from PCA output. The eigen-faces are plotted in the order of highest to lowest eigen value in row-major order.\relax }}{6}\protected@file@percent }
+\newlabel{fig:eig_face_PCA}{{3}{6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.3}Classification Accuracy Among PCA, LDA, Autoencoder (Pre-trained)}{7}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces The comparison among the PCA, LDA (typical), LDA(Yu-Yang version) and autoencoder (pretrained) algorithm. (b) depicts a more enhanced view near optimal accuracy level.\relax }}{7}\protected@file@percent }
+\newlabel{fig:accuracy_1}{{4}{7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.4}Classification Accuracy Among PCA, LDA, Autoencoder (Custom Trained)}{7}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces The comparison among the PCA, LDA (typical), LDA(Yu-Yang version) and autoencoder (custom trained) algorithm. (b) depicts a more enhanced view near optimal accuracy level. The autoencoder is trained from scratch to have a end-to-end comparison with other methods when the number of interest eigenvectors changes. \textbf  {NB:To reproduce the autoencoder results, the model weights are attached with the source code file}.\relax }}{7}\protected@file@percent }
+\newlabel{fig:accuracy_2}{{5}{7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.5}Comments}{7}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.6}Cascaded AdaBoost Output}{8}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6.6.1}Training Set}{8}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Propagation of False Positive Rate (FPR) and False Negative Rate (FNR) at each cascading level for different number of iterations. The number of maximum cascading layers is fixed to 10. The number of iterations (N) per cascade level is set to 1 in (a), 5 in (b) and 20 in (c). The tolerance limit is set to $10^{-6}$ for FPR. It seems when N=1 in (a), the tolerance is not reached within a limit of 10 cascade levels. But for N=5 in (b) or N=20 in (c), the tolerance is reached well within 5 cascade levels. After N=5, there is not much gain in increasing N.\relax }}{8}\protected@file@percent }
+\newlabel{fig:adaboost_1}{{6}{8}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6.6.2}Testing Set}{8}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Propagation of False Positive Rate (FPR) and False Negative Rate (FNR) at each cascading level for different number of iterations. The number of maximum cascading layers is fixed to 10. The number of iterations (N) per cascade level is set to 1 in (a), 5 in (b) and 20 in (c). The FPR reduces within tolerance limit of $10^{-6}$ for FPR in the test set for all three scenarios. It seems when N=1 in (a), the tolerance is not reached within a limit of 10 cascade levels. But for N=5 in (b) or N=20 in (c), the tolerance is reached well within 5 cascade levels. After N=5, there is not much gain in increasing N.\relax }}{8}\protected@file@percent }
+\newlabel{fig:adaboost_2}{{7}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.7}Comments}{8}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {7}References}{9}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {8}Appendix}{9}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.1}Source Code - PCA}{9}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.2}Source Code - LDA}{12}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.3}Source Code - Autoencoder}{15}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.4}Source Code - Cascaded AdaBoost}{18}\protected@file@percent }
